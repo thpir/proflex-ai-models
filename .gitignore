@@ -1,0 +1,4 @@
+# Ignore datasets directory
+data/
+# Ignore models directory
+models/
